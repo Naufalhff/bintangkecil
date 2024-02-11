@@ -1,3 +1,4 @@
+geraldin ganteng banget
 
 int main(){
 	
@@ -68,4 +69,6 @@ int main(){
 		printf("\n");
 	}
 }
+ 
+ //geraldin
 
